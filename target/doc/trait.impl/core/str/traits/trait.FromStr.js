@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["encode_unicode",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"struct\" href=\"encode_unicode/struct.Utf16Char.html\" title=\"struct encode_unicode::Utf16Char\">Utf16Char</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"struct\" href=\"encode_unicode/struct.Utf8Char.html\" title=\"struct encode_unicode::Utf8Char\">Utf8Char</a>"]]],["sysinfo",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"struct\" href=\"sysinfo/struct.Gid.html\" title=\"struct sysinfo::Gid\">Gid</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"struct\" href=\"sysinfo/struct.Pid.html\" title=\"struct sysinfo::Pid\">Pid</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/str/traits/trait.FromStr.html\" title=\"trait core::str::traits::FromStr\">FromStr</a> for <a class=\"struct\" href=\"sysinfo/struct.Uid.html\" title=\"struct sysinfo::Uid\">Uid</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[591,779]}

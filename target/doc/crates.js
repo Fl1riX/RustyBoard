@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["RustyBoard","cfg_if","crossbeam_deque","crossbeam_epoch","crossbeam_utils","csv","csv_core","dirs_next","dirs_sys_next","either","encode_unicode","is_terminal","itoa","lazy_static","libc","memchr","once_cell","prettytable","rayon","rayon_core","ryu","serde","sysinfo","term","unicode_width"];
+//{"start":21,"fragment_lengths":[12,9,18,18,18,6,11,12,16,9,17,14,7,14,7,9,12,14,8,13,6,8,10,7,16]}
