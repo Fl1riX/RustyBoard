@@ -5,3 +5,4 @@
 *.css linguist-documentation
 *.js linguist-documentation
 *.md linguist-documentation
+* linguist-language=Rust
