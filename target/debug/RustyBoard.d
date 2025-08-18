@@ -1,1 +1,1 @@
-/home/squ1rex/Рабочий\ стол/Rust\ projects/RustyBoard/target/debug/RustyBoard: /home/squ1rex/Рабочий\ стол/Rust\ projects/RustyBoard/src/main.rs
+/home/squ1rex/Rust\ Projects/RustyBoard/target/debug/RustyBoard: /home/squ1rex/Rust\ Projects/RustyBoard/src/main.rs
