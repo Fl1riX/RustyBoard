@@ -5,4 +5,3 @@
 docs/* linguist-documentation
 examples/*.html linguist-documentation
 target/* linguist-generated
-* linguist-language=Rust
