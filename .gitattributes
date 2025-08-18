@@ -1,7 +1,7 @@
+# .gitattributes
+* linguist-language=Rust
 *.rs linguist-language=Rust
 *.html linguist-documentation
 *.css linguist-documentation
 *.js linguist-documentation
-docs/* linguist-documentation
-examples/*.html linguist-documentation
-target/* linguist-generated
+*.md linguist-documentation
